@@ -53,12 +53,6 @@ make rtsched
 ../hf-risc/tools/sim/hf_riscv_sim/hf_riscv_sim build/target/image.bin
 ```
 
-For debug output:
-
-```bash
-../hf-risc/tools/sim/hf_riscv_sim/hf_riscv_sim build/target/image.bin out.txt
-```
-
 ## Summary
 
 * Added real-time scheduling (LLTF) to UCX/OS.
